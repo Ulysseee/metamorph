@@ -1,4 +1,4 @@
-# Brief exploration of custom shaders in GLSL and three.js. Made from a tutorial of [Yuri Artiukh](https://www.youtube.com/user/flintyara).
+## Brief exploration of custom shaders in GLSL and three.js. Made from a tutorial of [Yuri Artiukh](https://www.youtube.com/user/flintyara).
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
